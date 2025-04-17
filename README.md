@@ -11,8 +11,9 @@
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/3Z7Qz2O.png" alt="banner" />
+  <img src="https://i.imgur.com/3Z7Qz2O.png" alt="Ahmed Tarek Hammamou Banner" />
 </p>
+
 
 <h1 align="center">Hi there, I'm Ahmed Hammamou 👋</h1>
 
