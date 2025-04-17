@@ -11,7 +11,7 @@
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/3Z7Qz2O.png" alt="Ahmed Tarek Hammamou Banner" />
+  <img src="https://i.imgur.com/3Z7Qz2O.png​" />
 </p>
 
 
