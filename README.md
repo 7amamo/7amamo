@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **7amamo/7amamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,13 +11,13 @@
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/3Z7Qz2O.png" alt="banner" />
+  <img src="https://www.pexels.com/photo/laptop-computer-showing-c-application-574069/" alt="banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Ahmed Tarek Hammamou 👋</h1>
+<h1 align="center">Hi there, I'm Ahmed Hammamou 👋</h1>
 
 <p align="center">
-  <strong>Back-End Developer | ASP.NET Core  | Building scalable APIs with passion</strong>
+  <strong>Back-End Developer | ASP.NET Core  
 </p>
 
 ---
