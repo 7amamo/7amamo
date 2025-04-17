@@ -11,7 +11,7 @@
 -->
 
 <p align="center">
-  <img src="https://www.pexels.com/photo/laptop-computer-showing-c-application-574069/" alt="banner" />
+  <img src="https://i.imgur.com/3Z7Qz2O.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Ahmed Hammamou 👋</h1>
