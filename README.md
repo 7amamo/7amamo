@@ -18,8 +18,12 @@
 ---
 
 ## 🧑‍💻 About Me
+I'm a Computer Science graduate from the Faculty of Engineering (2024), passionate about building modern,
+ secure, and scalable web applications using .NET technologies.
+I specialize in back-end development with ASP.NET Core, Web APIs, and Entity Framework Core. I also follow clean architecture principles using patterns like Service Layer, Abstraction, and Specification Pattern.
+Currently, I'm continuously improving my skills and working on real-world projects that reflect my passion for building robust software solutions.
 
-I'm a Computer Science graduate from the Faculty of Engineering (2024), passionate about building modern, secure, and scalable applications using .NET technologies.
+
 ---
 
 ## 🛠 Tech Stack
